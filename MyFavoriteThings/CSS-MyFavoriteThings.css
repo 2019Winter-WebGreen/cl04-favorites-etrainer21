@@ -1,0 +1,21 @@
+/*
+* Name
+* Due Date
+* My favorite things
+*/
+
+/* The universal selector */
+
+
+img {width 500px; height: 400px}
+#sunfig {float:right; width:400 height:300px;}
+#tube {float:none; width:300 height:400px}
+#Hannah and Matt {float:none; width:300px; height:400px}
+#netfig {float:right;width:400px; height: 400px}
+
+
+/* Body attributes here */
+
+body {
+background-color: antiquewhite
+}
